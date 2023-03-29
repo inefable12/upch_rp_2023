@@ -1,0 +1,193 @@
+NUMBER,PLANT,NAME,CID,IUPAC,ISOMERIC_SMILES,SMILES
+1,Baccharis trimera,Quercetin,5280343,"2- (3,4-dihidroxifenil) -3,5,7-trihidroxicromen-4-ona",,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O
+2,Baccharis trimera,Luteolin,5280445,"2- (3,4-dihidroxifenil) -5,7-dihidroxicromen-4-ona",,O=C1C=C(C2=CC=C(O)C(O)=C2)OC3=CC(O)=CC(O)=C13
+3,Baccharis trimera,Nepetin,5317284,"2- (3,4-dihidroxifenil) -5,7-dihidroxi-6-metoxicromen-4-ona",,O=C1C=C(C2=CC=C(O)C(O)=C2)OC3=CC(O)=C(OC)C(O)=C13
+4,Baccharis trimera,Apigenin,5280443,"5,7-dihidroxi-2- (4-hidroxifenil)romen-4-ona",,OC1=C2C(OC(C3=CC=C(O)C=C3)=CC2=O)=CC(O)=C1
+5,Baccharis trimera,Hispidulin,5281628,"5,7-dihidroxi-2- (4-hidroxifenil) -6-metoxicromen-4-ona",,O=C1C=C(C2=CC=C(O)C=C2)OC3=CC(O)=C(OC)C(O)=C13
+6,Bidens andicola,5 Quercetina 3-O-glicósido,5282159,"3 - [[(2 R , 3 S , 4 S , 5 R , 6 S ) -6- [2- (3,4-dihidroxifenil) -5,7-dihidroxi-4-oxocromen-3-il] oxi- Ácido 3,4,5-trihidroxioxan-2-il] metoxi] -3-oxopropanoico",C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)COC(=O)CC(=O)O)O)O)O)O)O,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)COC(=O)CC(=O)O)O)O)O)O)O
+7,Bidens andicola,Ácidolorogenico,1794427,"Ácido (1 S , 3 R , 4 R , 5 R ) -3 - [( E ) -3- (3,4-dihidroxifenil) prop-2-enoil] oxi-1,4,5-trihidroxiciclohexano-1-carboxílico",C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O
+8,Bidens andicola,Isoquercitrin ,5280804,"2- (3,4-dihidroxifenil) -5,7-dihidroxi-3 - [(2 S , 3 R , 4 S , 5 S , 6 R ) -3,4,5-trihidroxi-6- (hidroximetil) oxano -2-il] oxicromen-4-ona",C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O
+9,Bidens andicola,Isoquercetin,5280804,"2- (3,4-dihidroxifenil) -5,7-dihidroxi-3 - [(2 S , 3 R , 4 S , 5 S , 6 R ) -3,4,5-trihidroxi-6- (hidroximetil) oxano -2-il] oxicromen-4-ona",C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O
+10,Bidens andicola,3- O- ramnosida de quercetina,5280459,"3 - [[(2 R , 3 S , 4 S , 5 R , 6 S ) -6- [2- (3,4-dihidroxifenil) -5,7-dihidroxi-4-oxocromen-3-il] oxi- Ácido 3,4,5-trihidroxioxan-2-il] metoxi] -3-oxopropanoico",,CC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O
+11,Bidens pilosa,Beta  bourbonene,62566,"(1 S , 2 R , 6 S , 7 R , 8 S ) -1-metil-5-metiliden-8-propan-2-iltriciclo [5.3.0.0 2,6 ] decano",CC(C)[C@@H]1CC[C@@]2([C@H]1[C@@H]3[C@H]2CCC3=C)C,CC(C)C1CCC2(C1C3C2CCC3=C)C
+12,Bidens pilosa,beta-Caryophyllene,5281515,"(1 R , 4 E , 9 S ) -4,11,11-trimetil-8-metilidenbiciclo [7.2.0] undec-4-eno",C/C/1=C\CCC(=C)[C@H]2CC([C@@H]2CC1)(C)C,CC1=CCCC(=C)C2CC(C2CC1)(C)C
+13,Bidens pilosa,beta-Copaene,57339298,"(1S,6S,7S,8S)-1-methyl-3-methylidene-8-propan-2-yltricyclo[4.4.0.02,7]decane",CC(C)[C@@H]1CC[C@]2([C@@H]3[C@H]1C2C(=C)CC3)C,CC(C)C1CCC2(C3C1C2C(=C)CC3)C
+14,Bidens pilosa,α-Humuleno,24798693,"(1 Z , 4 Z , 8 E ) -2,6,6,9-tetrametilcicloundeca-1,4,8-trieno",CC1=CCC(C=CCC(=CCC1)C)(C)C,CC1=CCC(C=CCC(=CCC1)C)(C)C
+15,Bidens pilosa,Germacreno D,6436582,"(1 E , 6 E ) -1-metil-5-metiliden-8-propan-2-ilciclodeca-1,6-dieno",C/C/1=C\CCC(=C)/C=C/C(CC1)C(C)C,CC1=CCCC(=C)C=CC(CC1)C(C)C
+16,Bidens pilosa,Espatulenol,6432640,"(7 S ) -1,1,7-trimetil-4-metiliden-1 a , 2,3,4 a , 5,6,7 a , 7 b -octahidrociclopropa [h] azulen-7-ol",C[C@@]1(CCC2C1C3C(C3(C)C)CCC2=C)O,CC1(C2C1C3C(CCC3(C)O)C(=C)CC2)C
+17,Brugmancia andida,Benzaldehyde,240,benzaldehído,,C1=CC=C(C=C1)C=O
+18,Brugmancia andida,Methyl benzoate,7150,benzoato de metilo,,COC(=O)C1=CC=CC=C1
+19,Brugmancia andida,Phenylethyl alcohol,6054,2-feniletanol,,1=CC=C(C=C1)CCO
+20,Brugmancia andida,Benzyl acetate,8785,acetato de bencilo,,CC(=O)OCC1=CC=CC=C1
+21,Brugmancia andida,Methyl salicylate,4133,2-hidroxibenzoato de metilo,,OC(=O)C1=CC=CC=C1O
+22,Brugmancia andida,Benzyl benzoate,2345,benzoato de bencilo,,1=CC=C(C=C1)COC(=O)C2=CC=CC=C2
+23,Brugmancia andida,Benzyl salicylate,8363,2-hidroxibenzoato de bencilo,,C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2O
+24,Brugmancia andida,alpha Thujene,6451618,(1 R ) -2-metil-5-propan-2-ilbiciclo [3.1.0] hex-2-eno,CC1=CCC2([C@@H]1C2)C(C)C,C1=CCC2(C1C2)C(C)C 
+25,Brugmancia andida,alpha Pinene,6654,"2,6,6-trimetilbiciclo [3.1.1] hept-2-eno",,C1=CCC2CC1C2(C)C
+26,Brugmancia andida,Beta pinene,14896,"6,6-dimetil-2-metilidenbiciclo [3.1.1] heptano",,CC1(C2CCC(=C)C1C2)C
+27,Brugmancia andida,Limonene,22311,1-metil-4-prop-1-en-2-ilciclohexeno,,C1=CCC(CC1)C(=C)C
+28,Brugmancia andida,"1,8-Cineole",2758,"1,3,3-trimetil-2-oxabiciclo [2.2.2] octano",,CC1(C2CCC(O1)(CC2)C)C
+29,Brugmancia andida,trans- BETA Ocimene,5281553,"(3 E ) -3,7-dimetilocta-1,3,6-trieno",CC(=CC/C=C(\C)/C=C)C,CC(=CCC=C(C)C=C)C
+30,Brugmancia andida,trans-Sabinene hydrate ,12315151,"(2S,5R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hexan-2-ol",CC(C)[C@]12CC[C@](C1C2)(C)O,CC(C)C12CCC(C1C2)(C)O
+31,Brugmancia andida,Terpinolene,11463,1-methyl-4-propan-2-ylidenecyclohexene,,CC1=CCC(=C(C)C)CC1
+32,Brugmancia andida,alpha Terpineol,17100,2- (4-metilciclohex-3-en-1-il) propan-2-ol,,CC1=CCC(CC1)C(C)(C)O
+33,Brugmancia andida,Beta Elemene,6918391,"(1 S , 2 S , 4 R ) -1-etenil-1-metil-2,4-bis (prop-1-en-2-il)iclohexano",CC(=C)[C@@H]1CC[C@@]([C@@H](C1)C(=C)C)(C)C=C,CC(=C)C1CCC(C(C1)C(=C)C)(C)C=C
+34,Brugmancia andida,betaedrene,11106485,"(1 S , 2 R , 5 S , 7 S ) -2,6,6-trimetil-8-metilidentriciclo [5.3.1.0 1,5 ]",C[C@@H]1CC[C@@H]2[C@]13CCC(=C)[C@H](C3)C2(C)C,CC1CCC2C13CCC(=C)C(C3)C2(C)C 
+35,Brugmancia andida,[Z]trans-alpha-Bergamotene/trans-alpha-Bergamotene,6429302,"(1 S , 5 S , 6 R ) -2,6-dimetil-6- (4-metilpent-3-enil) biciclo [3.1.1] hept-2-eno",CC1=CC[C@H]2C[C@@H]1[C@]2(C)CCC=C(C)C,CC1=CCC2CC1C2(C)CCC=C(C)C
+36,Brugmancia andida,Alpha Farnesene,5281516,"(3 E , 6 E ) -3,7,11-trimetildodeca-1,3,6,10-tetraeno",CC(=CCC/C(=C/C/C=C(\C)/C=C)/C)C,CC(=CCCC(=CCC=C(C)C=C)C)C
+37,Brugmancia andida,trans-Nerolidol,5284507,"(6 E ) -3,7,11-trimetildodeca-1,6,10-trien-3-ol",CC(=CCC/C(=C/CCC(C)(C=C)O)/C)C,C(=CCCC(=CCCC(C)(C=C)O)C)C
+38,Brugmancia andida,Nerolidol,5284507,"(6 E ) -3,7,11-trimetildodeca-1,6,10-trien-3-ol",,C(=CCCC(=CCCC(C)(C=C)O)C)C
+39,Brugmancia andida,"cis, trans-Farnesol",1549109,"(2 E , 6 Z ) -3,7,11-trimetildodeca-2,6,10-trien-1-ol",CC(=CCC/C(=C\CC/C(=C/CO)/C)/C)C,CC(=CCCC(=CCCC(=CCO)C)C)C
+40,Brugmancia andida,"trans, trans-Farnesol",5365996,"trimetil - [(2 E , 6 E ) -3,7,11-trimetildodeca-2,6,10-trienoxi] silano",CC(=CCC/C(=C/CC/C(=C/CO[Si](C)(C)C)/C)/C)C,CC(=CCCC(=CCCC(=CCO)C)C)C
+41,Brugmancia andida,"trans,is-Farnesol",1549109,"(2 E , 6 Z ) -3,7,11-trimetildodeca-2,6,10-trien-1-ol",,CC(=CCCC(=CCCC(=CCO)C)C)C
+42,Brugmancia andida,Indole,798,1 H -indol,,C1=CC=C2C(=C1)C=CN2
+43,Capsella bursa ,Quercetin 3-O-glucoside,5280804,"2- (3,4-dihidroxifenil) -5,7-dihidroxi-3 - [(2 S , 3 R , 4 S , 5 S , 6 R ) -3,4,5-trihidroxi-6- (hidroximetil) oxano -2-il] oxicromen-4-ona",,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O
+44,Capsella bursa ,Kaempferol-3-O-rutinoside,5318767,"5,7-dihidroxi-2- (4-hidroxifenil) -3 - [(2 S , 3 R , 4 S , 5 S , 6 R ) -3,4,5-trihidroxi-6 - [[(2 R , 3 R , 4 R , 5 R , 6 S ) -3,4,5-trihidroxi-6-metiloxan-2-il] oximetil] oxan-2-il] oxicromen-4-ona",C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC=C(C=C5)O)O)O)O)O)O)O,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC=C(C=C5)O)O)O)O)O)O)O
+45,Capsella bursa ,Kaempferol,5280863,"3,5,7-trihidroxi-2- (4-hidroxifenil)romen-4-ona",,1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O
+46,Capsella bursa ,Oxalic,971,ácido oxálico,,C(=O)(C(=O)O)O
+47,Capsella bursa ,Citric,16213286,"1,1,3,3-tetradeuterio-2-hydroxypropane-1,2,3-tricarboxylic acid",,C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+48,Capsella bursa ,Malic,525,2-hydroxybutanedioic acid,,C(C(C(=O)O)O)C(=O)O
+49,Capsella bursa ,Shikimic,8742,"(3R,4S,5R)-3,4,5-trihydroxycyclohexene-1-carboxylic acid",C1[C@H]([C@@H]([C@@H](C=C1C(=O)O)O)O)O,C1C(C(C(C=C1C(=O)O)O)O)O
+50,Capsella bursa ,Fumaric,444972,(E)-but-2-enedioic acid,C(=C/C(=O)O)\C(=O)O,C(=CC(=O)O)C(=O)O
+51,Capsella bursa ,Lauric acid,3893,dodecanoic acid,,C(=CC(=O)O)C(=O)O
+52,Capsella bursa ,tetradecanoic acid,11005,tetradecanoic acid,,CCCCCCCCCCCCCC(=O)O
+53,Capsella bursa ,pentadecanoic acid,13849,pentadecanoic acid,,CCCCCCCCCCCCCCC(=O)O
+54,Capsella bursa ,(Z)-Hexadec-9-enoic acid,445638,(Z)-hexadec-9-enoic acid,CCCCCC/C=C\CCCCCCCC(=O)O,CCCCCCC=CCCCCCCCC(=O)O
+55,Capsella bursa ,(Z)-7-Hexadecenoic acid,5318393,(Z)-hexadec-7-enoic acid,CCCCCCCC/C=C\CCCCCC(=O)O,CCCCCCCCC=CCCCCCC(=O)O
+56,Capsella bursa ,Hexadecanoic acid,985,hexadecanoic acid,,CCCCCCCCCCCCCCCC(=O)O
+57,Capsella bursa ,"Cis 9,10-Methylenehexadecanoic acid",11043779,"8-[(1S,2R)-2-hexylcyclopropyl]octanoic acid","CCCCCCC1CC1CCCCCCCC(=O)O
+",CCCCCCC1CC1CCCCCCCC(=O)O
+58,Capsella bursa ,Heptadecanoic acid,10465,heptadecanoic acid,,CCCCCCCCCCCCCCCCC(=O)O
+59,Capsella bursa ,"9(Z),12(E)-Octadecadienoic acid",3931,"octadeca-9,12-dienoic acid",,CCCCCC=CCC=CCCCCCCCC(=O)O
+60,Capsella bursa ,(Z)-Octadec-9-enoic acid,445639,(Z)-octadec-9-enoic acid,CCCCCCCC/C=C\CCCCCCCC(=O)O,CCCCCCCCC=CCCCCCCCC(=O)O
+61,Capsella bursa ,"6-Octadecenoic acid, (Z)",5282754,(E)-octadec-6-enoic acid,CCCCCCCCCCC/C=C/CCCCC(=O)O,CCCCCCCCCCC/C=C\CCCCC(=O)O
+62,Capsella bursa ,Octadecanoic acid,5281,octadecanoic acid,,CCCCCCCCCCCCCCCCCC(=O)O
+63,Capsella bursa ,Arachidic acid,10467,icosanoic acid,,CCCCCCCCCCCCCCCCCCCC(=O)O
+64,Aloysia triphylla,1-octene,8125,oct-1-ene,,CCCCCCC=C
+65,Aloysia triphylla,2-hexena,hex-2-ene,hex-2-ene,,CCCC=CC
+66,Aloysia triphylla,β-citronellene,17090,"3,7-dimethylocta-1,6-diene",,CC(CCC=C(C)C)C=C
+67,Aloysia triphylla,sabinene,18818,4-methylidene-1-propan-2-ylbicyclo[3.1.0]hexane,,CC(C12CCC(C1C2)=C)C
+68,Aloysia triphylla,1-octen-3-o,18827,oct-1-en-3-ol,,CCCCCC(C=C)O
+69,Aloysia triphylla,6-methyl-5-hepten-2-one,9862,6-methylhept-5-en-2-one,,CC(=CCCC(=O)C)C
+70,Aloysia triphylla,3-octanol,11527,octan-3-ol,,CCCCCC(CC)O
+71,Aloysia triphylla,α-terpinene,7462,"1-methyl-4-propan-2-ylcyclohexa-1,3-diene",,CC1=CC=C(CC1)C(C)C
+72,Aloysia triphylla,p-cymene,7463,,,CC1=CC=C(C=C1)C(C)C
+73,Aloysia triphylla,(Z)-β-ocimene,5320250,"(3Z)-3,7-dimethylocta-1,3,6-triene",CC(=CC/C=C(/C)\C=C)C,CC(=CCC=C(C)C=C)C
+74,Aloysia triphylla,γ-terpinene,7461,"1-methyl-4-propan-2-ylcyclohexa-1,4-diene",,CC1=CCC(=CC1)C(C)C
+75,Aloysia triphylla,cis-sabinene hydrate,101629835,"(1S,4R)-4-methyl-1-propan-2-ylbicyclo[3.1.0]hexane",C[C@@H]1CC[C@@]2(C1C2)C(C)C,CC1CCC2(C1C2)C(C)C
+76,,eucarvone,136330,"2,6,6-trimethylcyclohepta-2,4-dien-1-one",,CC1=CC=CC(CC1=O)(C)C
+77,Aloysia triphylla,Linalool,6549,"3,7-dimethylocta-1,6-dien-3-ol",,CC(=CCCC(C)(C=C)O)C
+78,Aloysia triphylla,α-thujone,,"(1S,4R,5R)-4-methyl-1-propan-2-ylbicyclo[3.1.0]hexan-3-one",C[C@@H]1[C@H]2C[C@]2(CC1=O)C(C)C,CC1C2CC2(CC1=O)C(C)C
+79,Aloysia triphylla,cis-limonene oxide,,"(1R,4R,6S)-1-methyl-4-prop-1-en-2-yl-7-oxabicyclo[4.1.0]heptane",,CC(=C)C1CCC2(C(C1)O2)C
+80,Aloysia triphylla,trans-limonene oxide,449290,"(1S,4R,6R)-1-methyl-4-prop-1-en-2-yl-7-oxabicyclo[4.1.0]heptane",CC(=C)[C@@H]1CC[C@]2([C@@H](C1)O2)C,CC(=C)C1CCC2(C(C1)O2)C
+81,Aloysia triphylla,citronellal,7794,"3,7-dimethyloct-6-enal",,CC(CCC=C(C)C)CC=O
+82,Aloysia triphylla,terpinen-4-ol,11230,4-methyl-1-propan-2-ylcyclohex-3-en-1-ol,,CC1=CCC(C(C)C)(O)CC1
+83,Aloysia triphylla,α-terpineol,442501,2-[(1R)-4-methylcyclohex-3-en-1-yl]propan-2-ol,CC1=CC[C@@H](CC1)C(C)(C)O,OC(C)(C)C1CC=C(C)CC1
+84,,trans-carveol,94221,"(1S,5R)-2-methyl-5-prop-1-en-2-ylcyclohex-2-en-1-ol",CC1=CC[C@H](C[C@@H]1O)C(=C)C,CC1=CCC(CC1O)C(=C)C
+85,Aloysia triphylla,Neral,643779,"(2Z)-3,7-dimethylocta-2,6-dienal",CC(=CCC/C(=C\C=O)/C)C,CC(=CCCC(=CC=O)C)C
+86,Aloysia triphylla,methylitronellate,61290,"methyl 3,7-dimethyloct-6-enoate",,CC(CCC=C(C)C)CC(=O)OC
+87,,geranial,638011,"(2E)-3,7-dimethylocta-2,6-dienal",CC(=CCC/C(=C/C=O)/C)C,CC(=CCCC(=CC=O)C)C
+88,Aloysia triphylla,delta-elemene,12309449,"(3R,4R)-4-ethenyl-4-methyl-1-propan-2-yl-3-prop-1-en-2-ylcyclohexene",CC(C)C1=C[C@@H]([C@@](CC1)(C)C=C)C(=C)C,CC(C)C1=CC(C(CC1)(C)C=C)C(=C)C
+89,Aloysia triphylla,2-phenylethyl propionate,31225,2-phenylethyl propanoate,,CCC(=O)OCCC1=CC=CC=C1
+90,Aloysia triphylla,Eugenol,3314,2-methoxy-4-prop-2-enylphenol,,COC1=C(C=CC(=C1)CC=C)O
+91,Aloysia triphylla,Neryl acetate,1549025,"[(2Z)-3,7-dimethylocta-2,6-dienyl] acetate",CC(=CCC/C(=C\COC(=O)C)/C)C,CC(=CCCC(=CCOC(=O)C)C)C
+92,Aloysia triphylla,α-copaene,19725,"1,3-dimethyl-8-propan-2-yltricyclo[4.4.0.02,7]dec-3-ene",,CC1=CCC2C3C1C2(CCC3C(C)C)C
+93,Aloysia triphylla,methyl eugenol,7127,"1,2-dimethoxy-4-prop-2-enylbenzene",,COC1=C(C=C(C=C1)CC=C)OC
+94,Aloysia triphylla,α-cedrene,442348,"(1S,2R,5S)-2,6,6,8-tetramethyltricyclo[5.3.1.01,5]undec-8-ene",C[C@@H]1CC[C@@H]2[C@]13CC=C(C(C3)C2(C)C)C,CC1CCC2C13CC=C(C(C3)C2(C)C)C
+95,Aloysia triphylla,β-gurjunene,6432176,"(7S,7aS)-1,1,7,7a-tetramethyl-2,3,5,6,7,7b-hexahydro-1aH-cyclopropa[a]naphthalene",C[C@H]1CCC=C2[C@@]1(C3C(C3(C)C)CC2)C,CC1CCC2C(C2(C)C)C3C1CCC3=C
+96,Aloysia triphylla,aromadendrene,91354,"1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulene",,CC1CCC2C1C3C(C3(C)C)CCC2=C
+97,Aloysia triphylla,α-humulene,5281520,"(1E,4E,8E)-2,6,6,9-tetramethylcycloundeca-1,4,8-triene",C/C/1=C\CC(/C=C/C/C(=C/CC1)/C)(C)C,CC1=CCC(C=CCC(=CCC1)C)(C)C
+98,,(E)-β-farnesene,10407,"7,11-dimethyl-3-methylidenedodeca-1,6,10-triene
+",,CC(=CCCC(=CCCC(=C)C=C)C)C
+99,Aloysia triphylla,allo-aromadendrene,42608158,"(4aS,7R,7aR)-1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulene",C[C@@H]1CC[C@H]2[C@@H]1C3C(C3(C)C)CCC2=C,CC1CCC2C1C3C(C3(C)C)CCC2=C
+100,Aloysia triphylla,geranyl propionate,5355853,"[(2E)-3,7-dimethylocta-2,6-dienyl] propanoate",CCC(=O)OC/C=C(\C)/CCC=C(C)C,CCC(=O)OCC=C(C)CCC=C(C)C
+101,Aloysia triphylla,Germacrene D,5317570,"(1E,6E,8S)-1-methyl-5-methylidene-8-propan-2-ylcyclodeca-1,6-diene",C/C/1=C\CCC(=C)/C=C/[C@@H](CC1)C(C)C,CC1=CCCC(=C)C=CC(CC1)C(C)C
+102,Aloysia triphylla,Ar-Curcumene,6429102,"1-methyl-4-[(3Z)-6-methylhepta-3,5-dien-2-yl]benzene",CC1=CC=C(C=C1)C(C)/C=C\C=C(C)C,CC1=CC=C(C=C1)C(C)CCC=C(C)C
+103,Aloysia triphylla,zingiberene,92776,"(5R)-2-methyl-5-[(2S)-6-methylhept-5-en-2-yl]cyclohexa-1,3-diene",CC1=CC[C@@H](C=C1)[C@@H](C)CCC=C(C)C,CC1=CCC(C=C1)C(C)CCC=C(C)C
+104,,β-bisabolene,10104370,"(4S)-1-methyl-4-(6-methylhepta-1,5-dien-2-yl)cyclohexene",CC1=CC[C@H](CC1)C(=C)CCC=C(C)C,CC1=CCC(CC1)C(=C)CCC=C(C)C
+105,Aloysia triphylla,γ-cadinene,6432404,"(1S,4aR,8aR)-7-methyl-4-methylidene-1-propan-2-yl-2,3,4a,5,6,8a-hexahydro-1H-naphthalene",CC1=C[C@@H]2[C@@H](CC1)C(=C)CC[C@H]2C(C)C,CC1=CC2C(CC1)C(=C)CCC2C(C)C
+106,Aloysia triphylla,δ-cadinene,441005,"(1S,8aR)-4,7-dimethyl-1-propan-2-yl-1,2,3,5,6,8a-hexahydronaphthalene",CC1=C[C@H]2[C@@H](CCC(=C2CC1)C)C(C)C,C1=CC2C(CC1)C(=C)CCC2C(C)C
+107,Aloysia triphylla,trans-calamenene,6429022,"(1S,4R)-1,6-dimethyl-4-propan-2-yl-1,2,3,4-tetrahydronaphthalene",C[C@H]1CC[C@@H](C2=C1C=CC(=C2)C)C(C)C,CC1CCC(C2=C1C=CC(=C2)C)C(C)C
+108,Aloysia triphylla,(E)-nerolidol ,5284507,"(6E)-3,7,11-trimethyldodeca-1,6,10-trien-3-o",CC(=CCC/C(=C/CCC(C)(C=C)O)/C)C,CC(=CCCC(=CCCC(C)(C=C)O)C)C
+109,Aloysia triphylla,germacrene D-4-o,5352847,"(2E,7E)-1,7-dimethyl-4-propan-2-ylcyclodeca-2,7-dien-1-ol",C/C/1=C\CCC(/C=C/C(CC1)C(C)C)(C)O,CC1=CCCC(C=CC(CC1)C(C)C)(C)O
+110,Aloysia triphylla,spathulenol,13854255,"(1aS,4aS,7R,7aS,7bS)-1,1,7-trimethyl-4-methylidene-1a,2,3,4a,5,6,7a,7b-octahydrocyclopropa[h]azulen-7-ol",C[C@]1(CC[C@H]2[C@H]1[C@@H]3[C@@H](C3(C)C)CCC2=C)O,CC1(C2C1C3C(CCC3(C)O)C(=C)CC2)C
+111,Aloysia triphylla,caryophyllene oxide,1742210,"(1R,4R,6R,10S)-4,12,12-trimethyl-9-methylidene-5-oxatricyclo[8.2.0.04,6]dodecane",,CC1(CC2C1CCC3(C(O3)CCC2=C)C)C
+112,Aloysia triphylla,α-cadinol,10398656,"(1R,4S,4aR,8aR)-1,6-dimethyl-4-propan-2-yl-3,4,4a,7,8,8a-hexahydro-2H-naphthalen-1-ol",CC1=C[C@H]2[C@@H](CC[C@@]([C@@H]2CC1)(C)O)C(C)C,CC1=CC2C(CCC(C2CC1)(C)O)C(C)C
+113,Baccharis latifolia,Myrcene,31253,"7-methyl-3-methylideneocta-1,6-diene",,CC(=CCCC(=C)C=C)C
+114,Baccharis latifolia,b-Phellandrene,11142,3-methylidene-6-propan-2-ylcyclohexene,,CC(C)C1CCC(=C)C=C1
+115,Baccharis latifolia,(E)-β-Ocymene,5281553,"(3E)-3,7-dimethylocta-1,3,6-triene",CC(=CC/C=C(\C)/C=C)C,CC(=CCC=C(C)C=C)C
+116,Baccharis latifolia,gamma-Terpinene,7461,"1-methyl-4-propan-2-ylcyclohexa-1,4-diene",,CC1=CCC(=CC1)C(C)C
+117,Baccharis latifolia,β-Elemene,6918391,"(1S,2S,4R)-1-ethenyl-1-methyl-2,4-bis(prop-1-en-2-yl)cyclohexane",CC(=C)[C@@H]1CC[C@@]([C@@H](C1)C(=C)C)(C)C=C,CC(=C)C1CCC(C(C1)C(=C)C)(C)C=C
+118,Baccharis latifolia,(E)-beta-Farnesene,5281517,"(6E)-7,11-dimethyl-3-methylidenedodeca-1,6,10-triene",CC(=CCC/C(=C/CCC(=C)C=C)/C)C,CC(=CCCC(=CCCC(=C)C=C)C)C
+119,Baccharis latifolia,gamma-Curcumene,12304273,"1-methyl-4-[(2R)-6-methylhept-5-en-2-yl]cyclohexa-1,3-diene",CC1=CC=C(CC1)[C@H](C)CCC=C(C)C,CC1=CC=C(CC1)C(C)CCC=C(C)C
+120,Baccharis latifolia,α-Curcumene,92139,1-methyl-4-(6-methylhept-5-en-2-yl)benzene,,CC1=CC=C(C=C1)C(C)CCC=C(C)C
+121,Baccharis latifolia,Bicyclogermacrene,13894537,"(1S,2E,6E,10R)-3,7,11,11-tetramethylbicyclo[8.1.0]undeca-2,6-diene",C/C/1=C\CC/C(=C/[C@H]2[C@H](C2(C)C)CC1)/C,CC1=CCCC(=CC2C(C2(C)C)CC1)C
+122,Baccharis latifolia,β-Bisabolene,10104370,"(4S)-1-methyl-4-(6-methylhepta-1,5-dien-2-yl)cyclohexene",CC1=CC[C@H](CC1)C(=C)CCC=C(C)C,CC1=CCC(CC1)C(=C)CCC=C(C)C
+123,Baccharis latifolia,d-Cadinene,441005,"(1S,8aR)-4,7-dimethyl-1-propan-2-yl-1,2,3,5,6,8a-hexahydronaphthalene",CC1=C[C@H]2[C@@H](CCC(=C2CC1)C)C(C)C,CC1=CC2C(CCC(=C2CC1)C)C(C)C
+124,Baccharis latifolia,Cubenol,11770062,"2-[(4,5-dimethyl-1,2,4-triazol-3-yl)methyl]-1-[(1-ethylpyrrolidin-2-yl)methyl]-3-(3-methylsulfanylpropyl)guanidine;hydroiodide",,CC1CCC(C2C1(CCC(=C2)C)O)C(C)C
+125,Baccharis latifolia,tau-Canidol,12302222,"(1R,4S,4aS,8aS)-1,6-dimethyl-4-propan-2-yl-3,4,4a,7,8,8a-hexahydro-2H-naphthalen-1-ol",CC1=C[C@@H]2[C@@H](CC[C@@]([C@H]2CC1)(C)O)C(C)C,CC1=CC2C(CCC(C2CC1)(C)O)C(C)C
+126,Baccharis latifolia,α-Bisabolol,1549992,(2R)-6-methyl-2-[(1R)-4-methylcyclohex-3-en-1-yl]hept-5-en-2-ol,CC1=CC[C@@H](CC1)[C@@](C)(CCC=C(C)C)O,CC1=CCC(CC1)C(C)(CCC=C(C)C)O
+127,Baccharis latifolia,Chromolaenin,11745938,"(5R)-1,5,8-trimethyl-4,5-dihydrobenzo[e][1]benzofuran",C[C@@H]1CC2=C(C(=CO2)C)C3=C1C=CC(=C3)C,CC1CC2=C(C(=CO2)C)C3=C1C=CC(=C3)C
+128,Minthostachys mollis,beta-Ocimene,5281553,"(3E)-3,7-dimethylocta-1,3,6-triene",CC(=CC/C=C(\C)/C=C)C,CC(=CCC=C(C)C=C)C
+129,Minthostachys mollis,isomenthone,6986,5-methyl-2-propan-2-ylcyclohexan-1-one,,CC1CCC(C(=O)C1)C(C)C
+130,Minthostachys mollis,isomenthyl acetate,6432225,"[(1S,2R,5R)-5-methyl-2-propan-2-ylcyclohexyl] acetate",C[C@@H]1CC[C@@H]([C@H](C1)OC(=O)C)C(C)C,CC1CCC(C(C1)OC(=O)C)C(C)C
+131,Minthostachys mollis,neomenthol,439263,"(1S,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",C[C@@H]1CC[C@H]([C@H](C1)O)C(C)C,CC1CCC(C(C1)O)C(C)C
+132,Minthostachys mollis,menthol,1254,5-methyl-2-propan-2-ylcyclohexan-1-ol,,CC1CCC(C(C1)O)C(C)C
+133,Minthostachys mollis,pulegone,442495,(5R)-5-methyl-2-propan-2-ylidenecyclohexan-1-one,C[C@@H]1CCC(=C(C)C)C(=O)C1,CC1CCC(=C(C)C)C(=O)C1
+134,Minthostachys mollis,piperitone,6987,3-methyl-6-propan-2-ylcyclohex-2-en-1-one,,CC1=CC(=O)C(CC1)C(C)C
+135,Minthostachys mollis,(Z)-beta-ocimen,5281553,"(3E)-3,7-dimethylocta-1,3,6-triene",CC(=CC/C=C(\C)/C=C)C,CC(=CCCC(=C)C=C)C
+136,Minthostachys mollis,menthone,26447,"(2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-one",C[C@@H]1CC[C@H](C(=O)C1)C(C)C,CC1CCC(C(=O)C1)C(C)C
+137,Minthostachys mollis,neomenthyl acetate,75699,"[(1S,2S,5R)-5-methyl-2-propan-2-ylcyclohexyl] acetate",C[C@@H]1CC[C@H]([C@H](C1)OC(=O)C)C(C)C,CC1CCC(C(C1)OC(=O)C)C(C)C
+138,Minthostachys mollis,menthyl acetate,27867,(5-methyl-2-propan-2-ylcyclohexyl) acetate,,CC1CCC(C(C1)OC(=O)C)C(C)C
+139,Minthostachys mollis,isomenthol,6432468,"(1R,2S,5S)-5-methyl-2-propan-2-ylcyclohexan-1-ol",C[C@H]1CC[C@H]([C@@H](C1)O)C(C)C,CC1CCC(C(C1)O)C(C)C
+140,Buddleja globosa,β-mirceno,31253,"7-methyl-3-methylideneocta-1,6-diene",,CC(=CCCC(=C)C=C)C
+141,Buddleja globosa,β-pineno,10290825,"(1R,5R)-6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptane",CC1([C@@H]2CCC(=C)[C@H]1C2)C,CC1(C2CCC(=C)C1C2)C
+142,Buddleja globosa,"8-Isopropenil-1,5-dimetil-ciclodeca-1,5-dieno",5365775,"(1E,5Z)-1,5-dimethyl-8-prop-1-en-2-ylcyclodeca-1,5-diene",C/C/1=C\CC/C(=C\CC(CC1)C(=C)C)/C,CC1=CCCC(=CCC(CC1)C(=C)C)C
+143,Buddleja globosa,3-careno,26049,"3,7,7-trimethylbicyclo[4.1.0]hept-3-ene",,CC1=CCC2C(C1)C2(C)C
+144,Buddleja globosa,β-trans-ocimeno,5281553,"(3E)-3,7-dimethylocta-1,3,6-triene",CC(=CC/C=C(\C)/C=C)C,CC(=CCC=C(C)C=C)C
+145,Buddleja globosa,D-limoneno,440917,(4R)-1-methyl-4-prop-1-en-2-ylcyclohexene,CC1=CC[C@@H](CC1)C(=C)C,CC1=CCC(CC1)C(=C)C
+146,Buddleja globosa,β-ocimeno,5281553,"(3E)-3,7-dimethylocta-1,3,6-triene",CC(=CC/C=C(\C)/C=C)C,CC(=CCC=C(C)C=C)C
+147,Buddleja globosa,4.7.7-trimetilbiciclo[2.2.1]heptan-3-ona (alcanfor),2750021,"3-acetyl-1,7,7-trimethylbicyclo[2.2.1]heptan-2-one",,CC1(C2CCC1(C(=O)C2)C)C
+148,Buddleja globosa,Isoborneol,64685,"1,7,7-trimethylbicyclo[2.2.1]heptan-2-ol",,CC1(C2CCC1(C(C2)O)C)C
+149,Buddleja globosa,p-cimen-8-ol,14529,2-(4-methylphenyl)propan-2-ol,,CC1=CC=C(C=C1)C(C)(C)O
+150,Buddleja globosa,Elixeno,94254,1-ethenyl-1-methyl-4-propan-2-ylidene-2-prop-1-en-2-ylcyclohexane,,CC(=C1CCC(C(C1)C(=C)C)(C)C=C)C
+151,Buddleja globosa,α-cubebeno,86609,"4,10-dimethyl-7-propan-2-yltricyclo[4.4.0.01,5]dec-3-ene",,CC1CCC(C2C13C2C(=CC3)C)C(C)C
+152,Buddleja globosa,α -copaeno,19725,"1,3-dimethyl-8-propan-2-yltricyclo[4.4.0.02,7]dec-3-ene",,CC1=CCC2C3C1C2(CCC3C(C)C)C
+153,Buddleja globosa,Metilougenol,7127,"1,2-dimethoxy-4-prop-2-enylbenzene",,COC1=C(C=C(C=C1)CC=C)OC
+154,Buddleja globosa,Desconocido (C15H24),656496,"(4S,4aR,6S)-4,4a-dimethyl-6-prop-1-en-2-yl-2,3,4,5,6,7-hexahydro-1H-naphthalene",C[C@H]1CCCC2=CC[C@@H](C[C@]12C)C(=C)C,CC1CCCC2=CCC(CC12C)C(=C)C
+155,Buddleja globosa,β-cariofileno,5281515,"(1R,4E,9S)-4,11,11-trimethyl-8-methylidenebicyclo[7.2.0]undec-4-ene",C/C/1=C\CCC(=C)[C@H]2CC([C@@H]2CC1)(C)C,CC1=CCCC(=C)C2CC(C2CC1)(C)C
+156,Buddleja globosa,β-cubebeno,93081,"(1R,5S,6R,7S,10R)-10-methyl-4-methylidene-7-propan-2-yltricyclo[4.4.0.01,5]decane",C[C@@H]1CC[C@H]([C@H]2[C@]13[C@@H]2C(=C)CC3)C(C)C,CC1CCC(C2C13C2C(=C)CC3)C(C)C
+157,Buddleja globosa,Aromadendreno,91354,"1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulene",,CC1CCC2C1C3C(C3(C)C)CCC2=C
+158,Buddleja globosa,α-cariofileno,6508206,"(1Z,4Z,8Z)-2,6,6,9-tetramethylcycloundeca-1,4,8-triene",C/C/1=C/CC(/C=C\C/C(=C\CC1)/C)(C)C,CC1=CCC(C=CCC(=CCC1)C)(C)C
+159,Buddleja globosa,L-alloaromadendreno,11095734,"(1aR,4aR,7R,7aR,7bS)-1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulene",C[C@@H]1CC[C@@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CCC2=C,CC1CCC2C1C3C(C3(C)C)CCC2=C
+160,Buddleja globosa,Pentadecano ,12391,pentadecane,,CCCCCCCCCCCCCCC
+161,Buddleja globosa,α-muroleno,12306047,"(1S,4aS,8aR)-4,7-dimethyl-1-propan-2-yl-1,2,4a,5,6,8a-hexahydronaphthalene",CC1=C[C@@H]2[C@H](CC1)C(=CC[C@H]2C(C)C)C,CC1=CC2C(CC1)C(=CCC2C(C)C)C
+162,Buddleja globosa,Biciclogermacreno,13894537,"(1S,2E,6E,10R)-3,7,11,11-tetramethylbicyclo[8.1.0]undeca-2,6-diene",C/C/1=C\CC/C(=C/[C@H]2[C@H](C2(C)C)CC1)/C,CC1=CCCC(=CC2C(C2(C)C)CC1)C
+163,Buddleja globosa,Desconocido (C15H26O),160799,"(1S,4S,4aR,8aR)-1,6-dimethyl-4-propan-2-yl-3,4,4a,7,8,8a-hexahydro-2H-naphthalen-1-ol",CC1=C[C@H]2[C@@H](CC[C@]([C@@H]2CC1)(C)O)C(C)C,CC1=CC2C(CCC(C2CC1)(C)O)C(C)C
+164,Buddleja globosa,Elemicina,10248,"1,2,3-trimethoxy-5-prop-2-enylbenzene",,COC1=CC(=CC(=C1OC)OC)CC=C
+165,Buddleja globosa,"1,2,4-trimetoxi-5-(1-propenil)-benceno (asarona)",17903,"1,2,4-trimethoxy-5-prop-1-enylbenzene",,CC=CC1=CC(=C(C=C1OC)OC)OC
+166,Buddleja globosa,Germacreno D-4-ol,5352847,"(2E,7E)-1,7-dimethyl-4-propan-2-ylcyclodeca-2,7-dien-1-ol",C/C/1=C\CCC(/C=C/C(CC1)C(C)C)(C)O,CC1=CCCC(C=CC(CC1)C(C)C)(C)O
+167,Buddleja globosa,Oxido deariofilleno,1742210,"(1R,4R,6R,10S)-4,12,12-trimethyl-9-methylidene-5-oxatricyclo[8.2.0.04,6]dodecane",C[C@@]12CC[C@@H]3[C@H](CC3(C)C)C(=C)CC[C@H]1O2,CC1(CC2C1CCC3(C(O3)CCC2=C)C)C
+168,Buddleja globosa,Apiol,10659,"4,7-dimethoxy-5-prop-2-enyl-1,3-benzodioxole",,COC1=C2C(=C(C(=C1)CC=C)OC)OCO2
+169,Leucheria daucifolia,malvidina,159287,"2-(4-hydroxy-3,5-dimethoxyphenyl)chromenylium-3,5,7-triol",,COC1=CC(=CC(=C1O)OC)C2=[O+]C3=CC(=CC(=C3C=C2O)O)O
+170,Leucheria daucifolia,Eucaliptina,76573,"5-hydroxy-7-methoxy-2-(4-methoxyphenyl)-6,8-dimethylchromen-4-one",,CC1=C(C2=C(C(=C1OC)C)OC(=CC2=O)C3=CC=C(C=C3)OC)O
+171,Leucheria daucifolia,8-dimetilflavona,14753671,"7-hydroxy-5-methoxy-6,8-dimethyl-2-phenylchromen-4-one",,CC1=C(C(=C(C2=C1OC(=CC2=O)C3=CC=CC=C3)OC)C)O
+172,Leucheria daucifolia,8— desmetileucaliptina,15715157,5-hydroxy-7-methoxy-2-(4-methoxyphenyl)-6-methylchromen-4-one,,CC1=C(C=C2C(=C1O)C(=O)C=C(O2)C3=CC=C(C=C3)OC)OC
+173,E. sideroxylon,Sidereoxilina,3083788,"5-hydroxy-2-(4-hydroxyphenyl)-7-methoxy-6,8-dimethylchromen-4-one",,CC1=C(C2=C(C(=C1OC)C)OC(=CC2=O)C3=CC=C(C=C3)O)O
+174,E. sideroxylon,8-desmetilsideroxilina,44258359,5-hydroxy-2-(4-hydroxyphenyl)-7-methoxy-6-methylchromen-4-one,,CC1=C(C=C2C(=C1O)C(=O)C=C(O2)C3=CC=C(C=C3)O)OC
+175,E. amaldulensis,apigenin7-glucurónido,5319484,"(2S,3S,4S,5R,6S)-3,4,5-trihydroxy-6-[5-hydroxy-2-(4-hydroxyphenyl)-4-oxochromen-7-yl]oxyoxane-2-carboxylic acid ",C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)O)O,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)C(=O)O)O)O)O)O)O
+176,E. amaldulensis,luteolín-7-glucósido,44258141,"[2-hydroxy-4-[5-hydroxy-4-oxo-7-[(2S,4S,5S)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-2-yl]phenyl] (Z)-2-methylbut-2-enoate",C/C=C(/C)\C(=O)OC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O[C@H]4C([C@H]([C@@H](C(O4)CO)O)O)O)O)O,CC=C(C)C(=O)OC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)CO)O)O)O)O)O
+177,E. sieberi,"alpinetina,",154279,"(2S)-7-hydroxy-5-methoxy-2-phenyl-2,3-dihydrochromen-4-one",COC1=CC(=CC2=C1C(=O)C[C@H](O2)C3=CC=CC=C3)O,COC1=CC(=CC2=C1C(=O)CC(O2)C3=CC=CC=C3)O
+178,E. sieberi,pinocembrina,68071,"(2S)-5,7-dihydroxy-2-phenyl-2,3-dihydrochromen-4-one",C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=CC=C3,C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC=CC=C3
+179,E. sieberi,3-rutinósidos quercetina,5280805,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxymethyl]oxan-2-yl]oxychromen-4-one",C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O
+180,E. sieberi,3-glucurónidos de kaempferol,5282102,"5,7-dihydroxy-2-(4-hydroxyphenyl)-3-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O
+181,E. sieberi,miricetina,5281672,"3,5,7-trihydroxy-2-(3,4,5-trihydroxyphenyl)chromen-4-one",,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O
+182,"E. tlocktoniae",dihidrokaempferol,122850,"(2R,3R)-3,5,7-trihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",C1=CC(=CC=C1[C@@H]2[C@H](C(=O)C3=C(C=C(C=C3O2)O)O)O)O,C1=CC(=CC=C1C2C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O
+183,E. alophylla,KINO,68213,"(3,4-dihydroxyphenyl)-(2,4,6-trihydroxyphenyl)methanone",,C1=CC(=C(C=C1C(=O)C2=C(C=C(C=C2O)O)O)O)O
+184,E. alophylla,Sakuranetina,73571,"(2S)-5-hydroxy-2-(4-hydroxyphenyl)-7-methoxy-2,3-dihydrochromen-4-one",COC1=CC(=C2C(=O)C[C@H](OC2=C1)C3=CC=C(C=C3)O)O,COC1=CC(=C2C(=O)CC(OC2=C1)C3=CC=C(C=C3)O)O
+185,E. maculata,Naringenina,932,"5,7-dihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",,C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O
+186,E. maculata,Aromadendrin,122850,"(2R,3R)-3,5,7-trihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",C1=CC(=CC=C1[C@@H]2[C@H](C(=O)C3=C(C=C(C=C3O2)O)O)O)O,C1=CC(=CC=C1C2C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O
+187,Cinchona officinalis,Quinina ,3034034,"(R)-[(2S,4S,5R)-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl]-(6-methoxyquinolin-4-yl)methanol",COC1=CC2=C(C=CN=C2C=C1)[C@H]([C@@H]3C[C@@H]4CCN3C[C@@H]4C=C)O,COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O
+188,Cinchona officinalis,Estreptogrinina,5298,"5-amino-6-(7-amino-6-methoxy-5,8-dioxoquinolin-2-yl)-4-(2-hydroxy-3,4-dimethoxyphenyl)-3-methylpyridine-2-carboxylic acid",,CC1=C(C(=C(N=C1C(=O)O)C2=NC3=C(C=C2)C(=O)C(=C(C3=O)N)OC)N)C4=C(C(=C(C=C4)OC)OC)O
+189,Cinchona officinalis,Chalcone,5356057,(E)-1-[4-(dimethylamino)phenyl]-3-phenylprop-2-en-1-one,CN(C)C1=CC=C(C=C1)C(=O)/C=C/C2=CC=CC=C2,CN(C)C1=CC=C(C=C1)C(=O)/C=C/C2=CC=CC=C2
+190,Cinchona officinalis,2- piridilquinolina,316974,2-piperidin-1-ylquinoline,,C1CCN(CC1)C2=NC3=CC=CC=C3C=C2
